@@ -1,3 +1,12 @@
+
+"""numero1 = int(input("Indique el número 1 : "))
+numero2 = int(input("Indique el número 2 : "))
+Resultado = numero1+numero2
+print("el resultado de la suma es ",Resultado)"""
+
+
+
+
 numero1 = int(input("Indique el número 1 : "))
 numero2 = int(input("Indique el número 2 : "))
 
